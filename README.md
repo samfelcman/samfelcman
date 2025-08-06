@@ -4,6 +4,7 @@
 - 🌱 Atualmente estou estudando Python e Java.
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Engraçado: sou judeu e sei imitar o mickey.
+
   <div> 
      <a href="https://github.com/samfelcman">
      <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=samfelcman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
