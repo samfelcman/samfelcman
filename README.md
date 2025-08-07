@@ -1,7 +1,7 @@
 ## Falaaa! Me chamo Samuel Felcman ou se preferir, apenas Sam Fecman 👋
 
 - 🔭 Eu atualmente sou estagiario em infraestrutura tentando migrar para a area dev front-end.
-- 🌱 Atualmente estou cursando Engenharia de Software e estudando linguagens como: HTML, CSS, JavaScript, React, Python e Java.
+- 🌱 Atualmente estou cursando Engenharia de Software e estudando linguagens como: HTML, CSS, JavaScript, TypeScript, C#, React, Python e Java.
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Engraçado: sou judeu e sei imitar o mickey.
 
@@ -18,7 +18,8 @@
   <img align="center" alt="Sam-TS"  height="40"  width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Sam-C#" height="40" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Sam-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Sam-HTML" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Sam-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Sam-Java" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   
   
     
