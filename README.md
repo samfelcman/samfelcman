@@ -12,7 +12,7 @@
   </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Sam-HTML" height="20" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Sam-HTML" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
     
   </div>
     
