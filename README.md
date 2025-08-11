@@ -20,8 +20,13 @@
   <img align="center" alt="Sam-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Sam-Python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Sam-Java" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  
-  
-    
   </div>
+
+  ##
+
+  <div>
+    <a href="https://www.linkedin.com/in/samuel-felcman-179741252" target="_blank"
+  </div>
+
+  
     
