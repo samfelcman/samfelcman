@@ -1,9 +1,11 @@
 ## Falaaa! Me chamo Samuel Felcman ou se preferir, apenas Sam Fecman 👋
 
-- 🔭 Eu atualmente sou estagiario em infraestrutura tentando migrar para a area dev front-end.
-- 🌱 Atualmente estou cursando Engenharia de Software e estudando linguagens como: HTML, CSS, JavaScript, TypeScript, C#, React, Python e Java.
-- 😄 Pronouns: ele/dele
-- ⚡ Fato Engraçado: sou judeu e sei imitar o mickey.
+**Desenvolvedor Fullstack**
+
+Me chamo Samuel Felcman, tenho 21 anos, e sou natural do Rio de Janeiro, carioca raiz 🤣.
+Conclui meu ensino medio profissionalizante em Tecnologia da Informação em 2022 e desde então sou apaixonado por tecnologia.
+Em 2024, iniciei meu curso de barachelado em Engenharia de Sofware e venho me aperfeiçando com o passar do tempo.
+Venho me aperfeiçoando com o passar do tempo, e pretendo fazer uma Pós Gradução em I.A e Machine Learning.
 
   <div>
     <a href="https://github.com/samfelcman">
