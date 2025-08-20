@@ -1,6 +1,6 @@
 ## Falaaa! Me chamo Samuel Felcman ou se preferir, apenas Sam Fecman 👋
 
-**´Desenvolvedor Fullstack´**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Samuel Felcman, tenho 21 anos, e sou natural do Rio de Janeiro, carioca raiz 🤣.
 Conclui meu ensino medio profissionalizante em Tecnologia da Informação em 2022 e desde então sou apaixonado por tecnologia.
