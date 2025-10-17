@@ -5,7 +5,7 @@
 Me chamo Samuel Felcman, tenho 21 anos, e sou natural do Rio de Janeiro, carioca raiz 🤣.
 Conclui meu ensino medio profissionalizante em Tecnologia da Informação em 2022 e desde então sou apaixonado por tecnologia.
 Em 2024, iniciei meu curso de barachelado em Engenharia de Sofware e venho me aperfeiçando com o passar do tempo.
-Venho me aperfeiçoando, e pretendo fazer uma Pós Gradução em I.A e Machine Learning e Cybersegurança.
+Venho me melhorando minhas qualificações, e pretendo fazer uma Pós Gradução em I.A e Machine Learning e Cybersegurança.
 
   <div>
     <a href="https://github.com/samfelcman">
