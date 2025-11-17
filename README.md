@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Samuel Felcman, tenho 21 anos, e sou natural do Rio de Janeiro, carioca raiz 🤣.
+Me chamo Samuel Felcman, tenho 21 anos, e sou natural do Rio de Janeiro.
 Conclui meu ensino medio profissionalizante em Tecnologia da Informação em 2022 e desde então sou apaixonado por tecnologia.
 Em 2024, iniciei meu curso de bacharelado em Engenharia de Sofware e venho me aperfeiçando com o passar do tempo.
 Venho melhorando minhas qualificações, e pretendo fazer uma Pós Gradução em I.A e Machine Learning e Cybersegurança.
