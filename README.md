@@ -9,8 +9,6 @@ Venho melhorando minhas qualificações, e pretendo fazer uma Pós Gradução em
 
   <div>
     <a href="https://github.com/samfelcman">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samfelcman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfelcman&layout=compact&langs_count=16&theme=tokyonight"/>
   </div>
 
   <div style="display: inline_block"><br>
