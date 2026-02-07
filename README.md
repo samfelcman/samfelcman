@@ -1,4 +1,4 @@
-## Falaaa! Me chamo Samuel Felcman ou se preferir, apenas Sam Fecman 👋
+ Samuel Felcman 👋
 
 **`Desenvolvedor Fullstack`**
 
