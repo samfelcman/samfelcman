@@ -92,16 +92,6 @@ Tenho interesse especial por desenvolvimento Full Stack, aplicações escalávei
 
 ---
 
-## 🌟 Objetivos
-
-* Desenvolver aplicações Full Stack completas
-* Aprimorar conhecimentos em Cloud Computing
-* Contribuir para projetos Open Source
-* Criar soluções escaláveis e performáticas
-* Evoluir constantemente como engenheiro de software
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
