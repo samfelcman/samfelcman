@@ -24,38 +24,10 @@ Tenho interesse especial por desenvolvimento Full Stack, aplicações escalávei
 
 ## 💡 Perfil Profissional
 
-```java
-public class SamuelFelcman {
-
-    String role = "Full Stack Developer";
-
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "C#"
-    };
-
-    String[] frontend = {
-        "React",
-        "HTML",
-        "CSS"
-    };
-
-    String[] cloud = {
-        "AWS",
-        "Docker"
-    };
-
-    String[] databases = {
-        "PostgreSQL"
-    };
-
-    String goal =
-        "Criar soluções tecnológicas que gerem impacto real.";
-}
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -134,15 +106,15 @@ public class SamuelFelcman {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/samuel-felcman-179741252">
+<a href="https://www.linkedin.com/in/samuel-felcman-179741252" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/samfelcman">
+<a href="https://github.com/samfelcman" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/samfelcman">
+<a href="https://www.instagram.com/samfelcman" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
