@@ -85,8 +85,8 @@ Tenho interesse especial por desenvolvimento Full Stack, aplicações escalávei
 
 * ☕ Desenvolvimento Backend com Java
 * ⚛️ Aplicações modernas com React
-* ☁️ Serviços Cloud AWS
-* 🐳 Docker e Containers
+* ☁️ Projetos fullstack para empreendedorismo digital
+* 🧠 Aprendizado de I.A com Python
 * 🏗️ Arquitetura de Software
 * 📚 Engenharia de Software
 
