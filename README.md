@@ -35,25 +35,25 @@ Tenho interesse especial por desenvolvimento Full Stack, aplicações escalávei
 
 ### Linguagens
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs" />
 </p>
 
 ### Front-End
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### Ferramentas & Cloud
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vscode" />
 </p>
 
 ### Banco de Dados
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
