@@ -31,27 +31,27 @@ I have a particular interest in Full Stack development, scalable applications, a
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technology
 
-### Linguagens
+### Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs" />
 </p>
 
-### Front-End
+### Front-End Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### Ferramentas & Cloud
+### Tools & Cloud
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vscode" />
 </p>
 
-### Banco de Dados
+### DataBase
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres" />
