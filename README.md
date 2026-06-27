@@ -33,7 +33,7 @@ I have a particular interest in Full Stack development, scalable applications, a
 
 ## 🛠️ Technology
 
-### Languages
+### Back-End Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs" />
@@ -75,18 +75,18 @@ I have a particular interest in Full Stack development, scalable applications, a
 
 ---
 
-## 🎯 Atualmente Focado Em
+## 🎯 Currently Focused On
 
-* ☕ Desenvolvimento Backend com Java
-* ⚛️ Aplicações modernas com React
-* ☁️ Projetos fullstack para empreendedorismo digital
-* 🧠 Aprendizado de I.A com Python
-* 🏗️ Arquitetura de Software
-* 📚 Engenharia de Software
+* ☕ Backend Development with Java
+* ⚛️ Modern Applications with React
+* ☁️ Full-Stack Projects for Digital Entrepreneurship
+* 🧠 AI Learning with Python
+* 🏗️ Software Architecture
+* 📚 Software Engineering
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me!
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I have a particular interest in Full Stack development, scalable applications, a
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### ⭐ Thanks for visited my profile, see you!
 
 <img src="https://komarev.com/ghpvc/?username=samfelcman&style=for-the-badge&color=3B82F6"/>
 
