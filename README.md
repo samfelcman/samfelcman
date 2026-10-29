@@ -2,7 +2,7 @@
 
 # 👨‍💻 Samuel Felcman
 
-### Full Stack Developer • Software Engineering Student • Cloud Enthusiast ☁️
+### Back-End Developer • Software Engineering Student • Cloud Enthusiast ☁️
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;Java+%7C+React+%7C+AWS;Building+solutions+through+technology" />
 
