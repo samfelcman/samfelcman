@@ -77,7 +77,7 @@ I have a particular interest in Full Stack development, scalable applications, a
 
 ## 🎯 Currently Focused On
 
-* ☕ Backend Development with Java
+* ☕ Backend Development with Python
 * ⚛️ Modern Applications with React
 * ☁️ Full-Stack Projects for Digital Entrepreneurship
 * 🧠 AI Learning with Python
