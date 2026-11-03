@@ -9,6 +9,7 @@
 </div>
 
 ---
+
 ## 🚀 About me
 
 Hi everyone! I'm **Samuel Felcman**, I'm **22** years old, and I'm from **Rio de Janeiro 🇧🇷**.
@@ -18,7 +19,9 @@ I completed my technical high school education in Information Technology in 2022
 I'm currently pursuing a Bachelor's degree in Software Engineering and continuously striving to grow in software development, systems architecture, and cloud computing.
 
 I have a particular interest in Full Stack development, scalable applications, and modern technologies that make a positive impact on people's lives.
+
 ---
+
 ## 💡 Dev Profile
 
 
